@@ -9,6 +9,6 @@ $articles = array(
 	'year' => '42',
 	'imgurl' => '',
 	//'' => '',
-	'body' => 'We'll call that a practice run...'')
+	'body' => "We'll call that a practice run...")
 );
 ?>
