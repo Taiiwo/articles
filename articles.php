@@ -12,7 +12,7 @@ $articles = array(
 	//'' => '',
 	'body' => "<p>It’s not often I can properly explain the sort of shit I have to put up with constantly, but I finally found a video that can do it:</p>
 
-<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/W8_Kfjo3VjU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>
+<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/W8_Kfjo3VjU?rel=0\" frameborder=\"0\" allowfullscreen></iframe>
 <br />
 <p>The saddest part about this is after showing my friends, a large percentage still didn’t get it.</p>
 <br />
